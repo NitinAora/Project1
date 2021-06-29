@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="66" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+    <groups>
+    </groups>
+    <test name="/Users/nitinarora/IdeaProjects/Project1/src/test/java/tests/BaseClass.java" duration-ms="66" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+      <class name="tests.SecondTestCase">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.SecondTestCase@7f560810]" name="firstTest" duration-ms="33" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:tests.SecondTestCase@7f560810]" name="thirdTest" duration-ms="1" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:tests.SecondTestCase@7f560810]" name="secondTest" duration-ms="0" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- tests.SecondTestCase -->
+      <class name="tests.ThirdTestCase">
+        <test-method status="PASS" signature="fiveTest()[pri:0, instance:tests.ThirdTestCase@69d9c55]" name="fiveTest" duration-ms="1" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fiveTest -->
+        <test-method status="PASS" signature="fourTest()[pri:0, instance:tests.ThirdTestCase@69d9c55]" name="fourTest" duration-ms="1" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourTest -->
+        <test-method status="PASS" signature="sixTest()[pri:0, instance:tests.ThirdTestCase@69d9c55]" name="sixTest" duration-ms="1" started-at="2021-06-21T19:47:08Z" finished-at="2021-06-21T19:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sixTest -->
+      </class> <!-- tests.ThirdTestCase -->
+    </test> <!-- /Users/nitinarora/IdeaProjects/Project1/src/test/java/tests/BaseClass.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
